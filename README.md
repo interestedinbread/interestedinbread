@@ -1,4 +1,10 @@
-## Hi there 👋
+I've been learning programming for about 6 months now and it's been fun.
+
+I have a solid grasp of html, CSS, and javascript, though I feel far from an expert at this time. 
+
+My educational background is in Literature, History, and Education. 6 months ago I didn't even now what html was lol. 
+
+I am interested in games, trivia, web development, and apps. 
 
 <!--
 **interestedinbread/interestedinbread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
