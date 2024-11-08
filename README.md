@@ -1,4 +1,4 @@
-I've been learning programming for about 6 months now and it's been fun.
+I've been learning programming for about 6 months now.
 
 I have a solid grasp of html, CSS, and javascript, though I feel far from an expert at this time. 
 
