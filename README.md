@@ -1,8 +1,8 @@
-I've been learning programming for about 6 months now.
+I've been learning programming for about 8 months now.
 
 I have a solid grasp of html, CSS, and javascript, though I feel far from an expert at this time. 
 
-My educational background is in Literature, History, and Education. 6 months ago I didn't even now what html was lol. 
+My educational background is in Literature, History, and Education. At the beginning of this year I didn't even now what html was lol. 
 
 I am interested in games, trivia, web development, and apps. 
 
