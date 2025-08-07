@@ -1,8 +1,7 @@
-I've been learning programming for about 8 months now.
+I love building fullstack projects with Node, Express, React, and Tailwind ❤️
 
-I have a solid grasp of html, CSS, and javascript, though I feel far from an expert at this time. 
-
-My educational background is in Literature, History, and Education. At the beginning of this year I didn't even now what html was lol. 
+My educational background is in Literature, History, and Education. For about 10 years I was an English, History, and Literature teacher in China. 
+When I came home to care for my grandmother for a while, I decided to start a new learning journey and discovered programming. 
 
 I am interested in games, trivia, web development, and apps. 
 
